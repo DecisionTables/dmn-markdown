@@ -1,6 +1,6 @@
 # DMN compliant decision tables in Markdown
 
-[H_000010.md](./H_000010.md)
+> [H_000010.md](./H_000010.md)
 
 | C |             |
 |:-:|:-----------:|
